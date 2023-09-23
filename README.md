@@ -20,7 +20,7 @@ Before setting up the bot, make sure you have the following:
 - Basic knowledge of Python.
 
 ## Getting Started
-
+#easyest way = run bot maker.py and fill out what it asks you to 
 Follow these steps to set up the GitHub Description Updater Bot:
 
 1. Clone this repository to your local machine:
