@@ -27,7 +27,7 @@ Follow these steps to set up the GitHub Description Updater Bot:
 
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-Open the Python script (webhook_bot.py) in a text editor.
+Open the Python script (template.py , then rename to what you want) in a text editor.
 
 Configure the following variables at the beginning of the script:
 
@@ -63,7 +63,7 @@ Run the script using the following command:
 
 bash
 Copy code
-python webhook_bot.py
+python template.py
 The bot will calculate the number of days since your start_date and update the GitHub repository description accordingly. It will also display special messages for specific milestones.
 
 Troubleshooting
